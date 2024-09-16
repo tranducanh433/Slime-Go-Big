@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4541ca090aac704eb68ba12d6d1b3cf, type: 3}
+  m_Name: Ballon+
+  m_EditorClassIdentifier: 
+  m_upgradeName: Ballon+
+  m_sprite: {fileID: 21300000, guid: 1774daa9fb417af45932d6e35bd68dc5, type: 3}
+  m_upgradeLV: 2
+  m_upgradeType: 0
+  m_description: Jump even higher.
+  m_baseDescription: Jump even higher.
+  m_nextUpgrade: {fileID: 11400000, guid: 4b3f02bda7bb88d4cb88aed317833a22, type: 2}
+  m_spawnObj: {fileID: 6688017980851673843, guid: 0b1129b342495d743b20bdaf1c83a95e, type: 3}

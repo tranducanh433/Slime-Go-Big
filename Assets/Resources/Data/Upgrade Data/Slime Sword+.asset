@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4541ca090aac704eb68ba12d6d1b3cf, type: 3}
+  m_Name: Slime Sword+
+  m_EditorClassIdentifier: 
+  m_upgradeName: Slime Sword+
+  m_sprite: {fileID: 21300000, guid: 84eda525f167aa546b8175990c40e54b, type: 3}
+  m_upgradeLV: 2
+  m_upgradeType: 3
+  m_description: Decrease cooldown.
+  m_baseDescription: 'Spawn a slime sword every few seconds.
+
+    Decrease cooldown.'
+  m_nextUpgrade: {fileID: 11400000, guid: a872cd44ce0dea948a2ab678022be49c, type: 2}
+  m_spawnObj: {fileID: 6482500873941840160, guid: ab3ecda67c4b3ea45944d4c024305f6c, type: 3}

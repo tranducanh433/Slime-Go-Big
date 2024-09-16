@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4541ca090aac704eb68ba12d6d1b3cf, type: 3}
+  m_Name: Shooting+
+  m_EditorClassIdentifier: 
+  m_upgradeName: Shooting+
+  m_sprite: {fileID: 21300000, guid: d3745c163ef26b8418c85b38f280f792, type: 3}
+  m_upgradeLV: 2
+  m_upgradeType: 1
+  m_description: Decrease Shooting power-up spawn cooldown.
+  m_baseDescription: 'Shooting power-up now can be spawn that gain you shooting power.
+
+    Decrease
+    Shooting power-up spawn cooldown.'
+  m_nextUpgrade: {fileID: 11400000, guid: 0d916da86f806a04db42f59776ea5ac2, type: 2}
+  m_spawnObj: {fileID: 2181764545328032640, guid: 8108a1ec36cec5547b50caa2d1237cc0, type: 3}

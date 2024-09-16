@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4541ca090aac704eb68ba12d6d1b3cf, type: 3}
+  m_Name: Slimebrella
+  m_EditorClassIdentifier: 
+  m_upgradeName: Slimebrella
+  m_sprite: {fileID: 21300000, guid: 9b24a20719d712d488cf5ab5d0e6534d, type: 3}
+  m_upgradeLV: 1
+  m_upgradeType: 0
+  m_description: Hold SPACE to slow fall.
+  m_baseDescription: Hold SPACE to slow fall.
+  m_nextUpgrade: {fileID: 11400000, guid: 1ca6b524fdb5b5d4b922bd978a014982, type: 2}
+  m_spawnObj: {fileID: 4284421453061127846, guid: 2b993aea9d0d8614682c17f17b39ae79, type: 3}

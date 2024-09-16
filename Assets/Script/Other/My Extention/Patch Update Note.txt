@@ -1,0 +1,17 @@
+4/3/2022
+New script: 
+		FollowMovement
+		SceneTranfer
+		ItemBase
+		Inventory
+		RandomLoot
+		RareLoot
+		LootTable
+		AmountLoot
+
+Script Edit: 
+	My color:
+		New color: orange
+	SimpleAnimationFunction:
+		New Func: DestroyParentGameObject
+	

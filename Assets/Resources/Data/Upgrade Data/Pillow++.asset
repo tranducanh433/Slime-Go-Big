@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4541ca090aac704eb68ba12d6d1b3cf, type: 3}
+  m_Name: Pillow++
+  m_EditorClassIdentifier: 
+  m_upgradeName: Pillow++
+  m_sprite: {fileID: 21300000, guid: 8cda4994a61208a43ad185d686ce453c, type: 3}
+  m_upgradeLV: 3
+  m_upgradeType: 0
+  m_description: Enemies's head become dramatically bouncier.
+  m_baseDescription: Enemies's head become dramatically bouncier.
+  m_nextUpgrade: {fileID: 0}
+  m_spawnObj: {fileID: 4908939846117707540, guid: 4034afa490619b64799e4c3d3987567d, type: 3}

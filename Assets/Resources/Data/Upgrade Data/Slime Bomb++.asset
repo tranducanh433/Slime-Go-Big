@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4541ca090aac704eb68ba12d6d1b3cf, type: 3}
+  m_Name: Slime Bomb++
+  m_EditorClassIdentifier: 
+  m_upgradeName: Slime Bomb++
+  m_sprite: {fileID: 21300000, guid: 4aa1c0723b1a18149b16f8861cae615b, type: 3}
+  m_upgradeLV: 3
+  m_upgradeType: 1
+  m_description: Increase Slime Bomb Power-Up spawn limited.
+  m_baseDescription: 'Slime Bomb power-up now can be spawn that make you bounce and
+    drop a bomb.
+
+    Decrease Slime Bomb Power-Up spawn cooldown.
+
+    Increase
+    Slime Bomb Power-Up spawn limited.'
+  m_nextUpgrade: {fileID: 0}
+  m_spawnObj: {fileID: 7829508247627853953, guid: b763fc44169c3cc4ab7f6a3fc8fa12d1, type: 3}

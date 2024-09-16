@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Power Up Spawner
+  - Ground
+  - Enemy Head
+  - Wall
+  - Enemy Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1353708479
+    locked: 0
+  - name: Effect
+    uniqueID: 411482093
+    locked: 0
+  - name: Ground
+    uniqueID: 3417411425
+    locked: 0
+  - name: Enemy
+    uniqueID: 2838885431
+    locked: 0
+  - name: Player
+    uniqueID: 895444199
+    locked: 0
+  - name: Front Effect
+    uniqueID: 1031876547
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
